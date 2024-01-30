@@ -7,6 +7,7 @@ function divide(a, b) {
     }
 
 
+
 // Addition
 function add(a, b) {
     return a + b;
