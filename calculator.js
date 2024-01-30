@@ -1,7 +1,11 @@
-// Multiplication
-function multiply(a, b) {
-    return a * b;
-}
+// Division
+function divide(a, b) {
+    if (b !== 0) {
+        return a / b;
+    } else {
+        return "Cannot divide by zero";
+    }
+
 
 // Addition
 function add(a, b) {
@@ -12,15 +16,11 @@ function add(a, b) {
 function subtract(a, b) {
     return a - b;
 }
-
-// Division
-function divide(a, b) {
-    if (b !== 0) {
-        return a / b;
-    } else {
-        return "Cannot divide by zero";
-    }
+}// Multiplication
+function multiply(a, b) {
+    return a * b;
 }
+
 
 // Examples
 let resultAddition = add(5, 3);
