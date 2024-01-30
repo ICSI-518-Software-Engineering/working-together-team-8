@@ -1,5 +1,17 @@
+<<<<<<< HEAD
 
 <<<<<<< HEAD
+=======
+// Division
+function divide(a, b) {
+    if (b !== 0) {
+        return a / b;
+    } else {
+        return "Cannot divide by zero";
+    }
+
+
+>>>>>>> Encounter_merge_conflicts
 
 // Addition
 function add(a, b) {
@@ -10,6 +22,7 @@ function add(a, b) {
 function subtract(a, b) {
     return a - b;
 }
+<<<<<<< HEAD
 =======
 >>>>>>> Implement_Division_function
 
@@ -20,7 +33,13 @@ function divide(a, b) {
     } else {
         return "Cannot divide by zero";
     }
+=======
+}// Multiplication
+function multiply(a, b) {
+    return a * b;
+>>>>>>> Encounter_merge_conflicts
 }
+
 
 // Examples
 
