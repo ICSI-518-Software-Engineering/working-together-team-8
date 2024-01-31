@@ -14,10 +14,10 @@ The objective of this task is to experience and resolve merge conflicts that ari
 ### 1. Activity 1: Encounter Merge Conflicts : For this activity, the team
 
 ### Red Team
-# Arka, Akshitha, Ram
+Arka, Akshitha, Ram
 
 ### Blue Team 
-# Rohit, Chetan, Gayathri
+Rohit, Chetan, Gayathri
 
 ### 2. Activity 2 : Branching, committing, and pushing :
 The four subgroups involved:
