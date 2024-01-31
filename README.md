@@ -8,6 +8,8 @@ The objective of this task is to experience and resolve merge conflicts that ari
 
 ![image](https://github.com/ICSI-518-Software-Engineering/working-together-team-8/assets/157652561/18e84abe-50f9-45c3-9ca9-cf4ba3dfe612)
 
+  ##Blue team encounter merge conflict.
+
 ![Image Description](https://github.com/ICSI-518-Software-Engineering/working-together-team-8/blob/main/1.png)
 
 
