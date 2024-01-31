@@ -36,5 +36,5 @@ The four subgroups involved:
 ### 3. Activity 3 : Writing Pull Requests
 1. Implement-addition-function: Arka, Rohit
 2. Implement-subtraction-function: Chetan, Akshitha
-3. Implement-multiplication-function: Akshitha
+3. Implement-multiplication-function: Akshitha,Ram
 4. Implement-division-function: Rohit, Gayathri
